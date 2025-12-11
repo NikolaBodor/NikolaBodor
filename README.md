@@ -12,6 +12,7 @@
 
 ## Projects
 - Glighfe
+
 Glighfe is a small social media application that isn't fully public yet
 
 ## How to reach me
