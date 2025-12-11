@@ -1,7 +1,6 @@
-## Hi there 👋
+## Hello, I'm Nikola
 
-<!--
-**NikolaBodor/NikolaBodor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me!
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+# How to reach me
+- LinkedIn: https://www.linkedin.com/in/nikola-bodor-a63841393/
+- Email: nikola@bodor.net.nz
