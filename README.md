@@ -1,4 +1,4 @@
-## Hello, I'm Nikola
+# Hello, I'm Nikola
 ----------------------
 ## About me!
 
@@ -12,6 +12,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-# How to reach me
+## How to reach me
 - LinkedIn: https://www.linkedin.com/in/nikola-bodor-a63841393/
 - Email: nikola@bodor.net.nz
