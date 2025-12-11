@@ -1,5 +1,5 @@
 # Hello, I'm Nikola
-----------------------
+
 ## About me!
 
 
@@ -8,9 +8,11 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## Projects
+- Glighfe
+Glighfe is a small social media application that isn't fully public yet
 
 ## How to reach me
 - LinkedIn: https://www.linkedin.com/in/nikola-bodor-a63841393/
