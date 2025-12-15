@@ -10,13 +10,7 @@ I’m now graduating from Dev Academy after learning full stack development as w
 
 Now I’m practicing all the skills I learnt as well as discovering and working with many more frameworks and databases like Svelte and PostgresSQL. I'm also working on a few projects, like Glighfe and I am planning an app which is a personalised game library with a list of many games and links to stores as well as ways to add them to collections…
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
+You can ask me about anything but mainly my projects and what I'm learning/working on.
 
 ## Projects
 - Glighfe
@@ -24,6 +18,8 @@ Now I’m practicing all the skills I learnt as well as discovering and working 
 Glighfe is a small social media application that isn't fully public yet
 
 ## Tech Stack
+
+
 
 ## How to reach me
 - LinkedIn: https://www.linkedin.com/in/nikola-bodor
