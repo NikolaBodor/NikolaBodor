@@ -15,7 +15,7 @@ You can ask me about anything but mainly my projects and what I'm learning/worki
 ## Projects
 - Glighfe
 
-Glighfe is a small social media application that isn't fully public yet
+Glighfe is a small social media application that is all about communication with images and wingdings, me and a few others have worked on for our final group project in Dev Academy. We had a week to complete as much as we could. We used React, TypeScript, Tailwind CSS, Express.js, Knex.js and SQLite for this project. We are still planning to work on this project at a later date.
 
 ## Tech Stack
 
